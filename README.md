@@ -96,10 +96,10 @@ Original Analysis:
 
 <img width="841" alt="ori_school_type" src="https://user-images.githubusercontent.com/102264298/166160604-5ac91548-c087-4411-8c8c-b56df519d905.png">
 
-## Summary: 
+## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
-1.
-2.
-3.
-4.
+1. The school ranking of Thomas High School is significant dropped from 2nd to 8th place. 
+2. The overall passing rate is significant decreased.
+3. The percentage of passing math, passing reading are significant decreased also.
+4. The average math and reading score for the 9th grade from Thomas High School in the report is showing NaNs now. 
 
