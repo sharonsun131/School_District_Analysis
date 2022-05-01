@@ -6,6 +6,11 @@ The school board found out that there are evidence of academic dishonesty in the
 
 o	How is the district summary affected?
 
+Adjusted Analysis:
+<img width="1107" alt="district_summary" src="https://user-images.githubusercontent.com/102264298/166156682-cf5694e5-a2dd-4ad4-8dae-8eef23193f62.png">
+
+Original Analysis:
+<img width="1187" alt="ori_district_smy" src="https://user-images.githubusercontent.com/102264298/166156684-1daebb99-9138-4e46-9162-9c9586d9d8ca.png">
 
 o	How is the school summary affected?
 
