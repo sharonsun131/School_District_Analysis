@@ -86,11 +86,11 @@ Original Analysis:
     Scores by school type
     
     After replacing the math and reading scores for Thomas High School with NaNs, 
-    there is no change on school type. 
+    there is a slightly change on school type. 
     
 Adjusted Analysis:    
 
-<img width="810" alt="school_type" src="https://user-images.githubusercontent.com/102264298/166160602-5c1e1c96-04f9-4399-a01c-fc4e3ad7ef2a.png">
+<img width="820" alt="school_type" src="https://user-images.githubusercontent.com/102264298/166163566-f6d012c7-7e99-4818-8e0c-794358118858.png">
 
 Original Analysis: 
 
