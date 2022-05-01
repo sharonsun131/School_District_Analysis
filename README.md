@@ -14,7 +14,15 @@ Original Analysis:
 
 o	How is the school summary affected?
 
+Adjusted Analysis:
+<img width="1078" alt="THS" src="https://user-images.githubusercontent.com/102264298/166157644-9bafb00c-157c-4205-b85d-c7a5e1dd22d0.png">
+
+Original Analysis:
+<img width="1088" alt="Ori_THS " src="https://user-images.githubusercontent.com/102264298/166157325-c9728ad8-65fb-488a-a26a-68a93c0717ac.png">
+
 o	How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+
 
 
 o	How does replacing the ninth-grade scores affect the following:
